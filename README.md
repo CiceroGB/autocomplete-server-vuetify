@@ -1,4 +1,4 @@
-# my-app
+# autocomplete server side example
 
 ## Project setup
 ```
