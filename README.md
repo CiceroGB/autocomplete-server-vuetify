@@ -1,5 +1,7 @@
 # autocomplete server side example
 
+<img width="1200" alt="" src="public/assets/example.gif">
+
 ## Project setup
 ```
 yarn install
@@ -14,11 +16,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
